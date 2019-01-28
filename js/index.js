@@ -1,4 +1,8 @@
 $(document).ready(function() {
+    $(".chat-button").on('click', function(e){
+        e.preventDefault();
+        $(".chat-content").slideToggle('fast');
+  });
     var typed = new Typed('#typed', {
         stringsElement: '#typed-strings',
         typeSpeed: 40,

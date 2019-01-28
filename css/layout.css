@@ -2087,3 +2087,33 @@ font-size: 3em;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
+.chat-container{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	max-width: 340px;
+	height: auto;
+	position: fixed;
+	bottom: 0;
+	right: 15px;
+	z-index: 999;
+}
+
+
+.chat-button{
+  width: 100%;
+  margin: 0;
+  cursor: pointer;
+  user-select: none;
+  padding: 4px 4px;
+  background-color: #337AB7;
+  color: #fff;
+  border-radius: 5px 5px 1px 1px;
+}
+
+.chat-content{
+	margin: 0;
+	padding: 0;
+	display: none;
+	background-color: #fff;
+}

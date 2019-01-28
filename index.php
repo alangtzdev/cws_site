@@ -1086,6 +1086,14 @@
     <!-- End Copyright -->
   </footer>
   <!--========== END FOOTER ==========-->
+  <!-- <section class="chat-container">
+	<div class="chat-button">
+		Chat de Facebook
+	</div>
+	<div class="chat-content">
+	<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcovenantsoftware%2F&tabs=messages&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+	</div>
+</section> -->
 
   <!-- Back To Top -->
   <a href="javascript:void(0);" class="js-back-to-top back-to-top">UP</a>
@@ -1128,5 +1136,22 @@
   <script src="js/components/masonry.min.js" type="text/javascript"></script>
 
 </body>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="396313837481341"
+  theme_color="#7ad20d"
+  logged_in_greeting="Hola! Como puedo ayudarte?"
+  logged_out_greeting="Hola! Como puedo ayudarte?">
+</div>
 </html>
