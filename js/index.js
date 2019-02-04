@@ -140,3 +140,5 @@ function prettyLog(str) {
       typed.loop = true;
     }
   }
+
+  //jorge sinc
