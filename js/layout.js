@@ -10,11 +10,13 @@ var Layout = function () {
         //     return; // pulsate plugin does not support IE8 and below
         // }
 
-        if (jQuery().pulsate) {
+        if ($().pulsate) {
             jQuery('#learn').pulsate({
                 color: "#bf1c56"
             });
-
+            jQuery('#learn_').pulsate({
+                color: "#bf1c56"
+            });
             jQuery('#pulsate-once').click(function () {
                 $('#pulsate-once-target').pulsate({
                     color: "#399bc3",
@@ -79,6 +81,13 @@ var Layout = function () {
             event.preventDefault();
         });
         $('#learn').bind('click', function(event) {
+            var $position = $($(this).attr('href')).offset().top;
+            $('html, body').stop().animate({
+                scrollTop: $position - $offset
+            }, 600);
+            event.preventDefault();
+        });
+        $('#learn_').bind('click', function(event) {
             var $position = $($(this).attr('href')).offset().top;
             $('html, body').stop().animate({
                 scrollTop: $position - $offset

@@ -3,18 +3,19 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Covenant Software | Paginas web | Aplicaciones moviles | Aplicaciones web | Desarrollo web</title>
+  <title>Covenant Software | Paginas web | Aplicaciones moviles | Aplicaciones web | Desarrollo | Covenant Software</title>
   <meta http-equiv="X-UA-Compatible" name="" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta property="og:locale" content="es_ES">
-  <meta property="og:type" content="article">
-  <meta property="og:title" content="Desarrollo de aplicaciones web, móviles y paginas web">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Desarrollo de aplicaciones web, móviles y paginas web | Covenant Software">
   <meta property="og:url" content="https://www.covenantsw.com/">
   <meta property="og:site_name" content="Covenant Software">
   <meta property="article:author" content="http://www.facebook.com/covenantsoftware">
   <meta name="robots" content="index,follow" />
-  <meta property="og:description" content="Desarrollo de aplicaciones web, móviles y paginas web | Las 24/7 los 365 dias del año. Aprovecha nuestra promocion de introduccion, hazlo bien, hazlo con nosotros crea o renueva tu pagina web. | Desarrollo Web">
+  <meta property="og:description" content="Desarrollo de aplicaciones web, móviles y paginas web | Las 24/7 los 365 dias del año. Aprovecha nuestra promocion de actualizacion, hazlo bien, hazlo con nosotros crea o renueva tu pagina web. | Desarrollo Web">
   <meta name="google-site-verification" content="iMmNn_8bD7X6z4cOqZSRjaa3hKGJr3eXCThcG9TgETw" />
+  <link rel="canonical" href="https://www.covenantsw.com">
   <!-- Master Style -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
   <link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
@@ -178,7 +179,7 @@
         <div class="col-sm-4 sm-margin-b-50">
           <div class="margin-b-20">
             <figure>
-              <img class="img-responsive wow fadeIn" src="img/970x647/01.png" alt="Area de trabajo" data-wow-duration=".3" data-wow-delay=".1s">
+              <img class="img-responsive wow fadeIn" src="img/970x647/01.png" alt="Como trabajamos el desarrollo de software" data-wow-duration=".3" data-wow-delay=".1s">
             </figure>
 
           </div>
@@ -197,7 +198,7 @@
         <div class="col-sm-4 sm-margin-b-50">
           <div class="margin-b-20">
             <figure>
-              <img class="img-responsive wow fadeIn" src="img/970x647/02.png" alt="desarrollos minimalistas" data-wow-duration=".3" data-wow-delay=".2s">
+              <img class="img-responsive wow fadeIn" src="img/970x647/02.png" alt="desarrollos de software minimalistas" data-wow-duration=".3" data-wow-delay=".2s">
             </figure>
 
           </div>
@@ -219,7 +220,7 @@
         <div class="col-sm-4 sm-margin-b-50">
           <div class="margin-b-20">
             <figure>
-              <img class="img-responsive wow fadeIn" src="img/970x647/04.png" alt="codigo limpio" data-wow-duration=".3" data-wow-delay=".3s">
+              <img class="img-responsive wow fadeIn" src="img/970x647/04.png" alt="codigo y diseño de software" data-wow-duration=".3" data-wow-delay=".3s">
             </figure>
           </div>
           <h4>
@@ -395,410 +396,12 @@
           </p>
         </div>
       </div>
-      <!-- Masonry Grid -->
-      <div class="masonry-grid row row-space-2">
-        <div class="masonry-grid-sizer col-xs-6 col-sm-6 col-md-1"></div>
-        <div class="masonry-grid-item col-xs-12 col-sm-4 col-md-4 margin-b-40 sombra">
-          <!-- Web site one -->
-          <div class="work work-popup-trigger">
-            <div class="work-overlay">
-              <figure>
-                <img class="full-width img-responsive" src="img/portafolio/01.jpg" alt="Portfolio Image">
-              </figure>
-
-            </div>
-            <div class="work-popup-overlay">
-              <div class="work-popup-content">
-                <a href="javascript:void(0);" class="work-popup-close">
-                  <i class="fa fa-close"> </i> Cerrar</a>
-                <div class="margin-b-30">
-                  <h3 class="margin-b-5">MaTorres PhotoGraphy</h3>
-                  <span>Creativo &amp; Color</span>
-                </div>
-                <div class="row">
-                  <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p>Fotografía profesional la cual su trabajo se dirige a documentales y expresar emociones de los eventos
-                        más importantes de tu vida.</p>
-                      <p>En este diseño nos enfocamos en un toque más milenial y juvenil, ya que lo queremos dar a conocer es
-                        la frescura del trabajo, con los colores resaltan compromiso y profesionalismo.</p>
-                      <h4>Tecnologia usada:</h5>
-                        <p>Bootstrap, HTML5, Css, JS, Ajax, MailChimp, Google Maps Api.</p>
-                        <!-- <ul class="list-inline work-popup-tag">
-                          <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Design,</a></li>
-                          <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Coding,</a></li>
-                          <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Portfolio</a></li>
-                        </ul> -->
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p class="margin-b-5">
-                        <strong>Role:</strong> Photography, Illustration</p>
-                      <p class="margin-b-5">
-                        <strong>Diseñador:</strong> Alan Gutierrez</p>
-                      <p class="margin-b-5">
-                        <strong>Developer:</strong> Armando Gutierrez</p>
-                      <p class="margin-b-5">
-                        <strong>Cliente:</strong> Ok</p>
-                    </div>
-                    <div class="hidden-xs  hidden-sm hidden-md margin-t-10 sm-margin-t-0">
-                      <img class="full-width img-responsive" src="img/portafolio/01.jpg" alt="Portfolio Image">
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- End Web site one -->
-        </div>
-        <div class="masonry-grid-item col-xs-12 col-sm-4 col-md-4 margin-b-40 sombra">
-          <!-- Web site two -->
-          <div class="work work-popup-trigger">
-            <div class="work-overlay">
-              <figure>
-                <img class="full-width img-responsive" src="img/portafolio/02.jpg" alt="Portfolio Image">
-              </figure>
-
-            </div>
-            <div class="work-popup-overlay">
-              <div class="work-popup-content">
-                <a href="javascript:void(0);" class="work-popup-close">
-                  <i class="fa fa-close"> </i> Cerrar</a>
-                <div class="margin-b-30">
-                  <h3 class="margin-b-5">Basic Construction Elements</h3>
-                  <span>Fresco &amp; Diseño Minimalista </span>
-                </div>
-                <div class="row">
-                  <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p>Es un empresa de arquitectura que se dedica al diseño de hogares, empresas y naves industriales, sus
-                        estructuras totalmente vanguardistas y minimalistas.</p>
-                      <p>Enfoque arquitectonico, colores de identidad, totalmente amigable, envolviendo a los usarios en cada
-                        uno de los servicios que se ofrecen.</p>
-                      <h4>Tecnologia usada:</h5>
-                        <p>PHP,Bootstrap, HTML5, Css, JS, Ajax, MailChimp, Google Maps Api.</p>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p class="margin-b-5">
-                        <strong>Role:</strong> Arquitectura, Civil</p>
-                      <p class="margin-b-5">
-                        <strong>Diseñador:</strong> Alan Gutierrez</p>
-                      <p class="margin-b-5">
-                        <strong>Developer:</strong> Alan Gutierrez</p>
-                      <p class="margin-b-5">
-                        <strong>Cliente:</strong> BCE</p>>
-                    </div>
-                    <div class="hidden-xs  hidden-sm hidden-md margin-t-10 sm-margin-t-0">
-                      <img class="full-width img-responsive" src="img/portafolio/02.jpg" alt="Portfolio Image">
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- End Web site two -->
-        </div>
-        <div class="masonry-grid-item col-xs-12 col-sm-4 col-md-4 margin-b-40 sombra">
-          <!-- Web site tree -->
-          <div class="work work-popup-trigger">
-            <div class="work-overlay">
-              <figure>
-                <img class="full-width img-responsive" src="img/portafolio/03.jpg" alt="Portfolio Image">
-              </figure>
-
-            </div>
-            <div class="work-popup-overlay">
-              <div class="work-popup-content">
-                <a href="javascript:void(0);" class="work-popup-close">
-                  <i class="fa fa-close"> </i> Cerrar</a>
-                <div class="margin-b-30">
-                  <h3 class="margin-b-5">iRepare</h3>
-                  <span>Fuerte &amp; Diseño trabajador</span>
-                </div>
-                <div class="row">
-                  <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p>Negocio dedicado en la reparacion, actualizacion y venta de accesorios de celular, tablets y laptops.</p>
-                      <p>Este diseño fue realizado en base a la necesidad del cliente la cual es mostrar específicamente los
-                        servicios que ofrece así como los precios que maneja, se añadió una seccion donde se encuentran ubicados,
-                        integrando con google maps API.
-                      </p>
-                      <h4>Tecnologia usada:</h5>
-                        <p>Bootstrap, HTML5, Css, JS, Ajax, MailChimp, Google Maps Api.</p>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p class="margin-b-5">
-                        <strong>Role:</strong> Tecnologia, Tecnico</p>
-                      <p class="margin-b-5">
-                        <strong>Diseñador:</strong> Mildred Sifuentes</p>
-                      <p class="margin-b-5">
-                        <strong>Developer:</strong> Mildred Sifuentes</p>
-                      <p class="margin-b-5">
-                        <strong>Cliente:</strong> Ok</p>
-                    </div>
-                    <div class="hidden-xs  hidden-sm hidden-md margin-t-10 sm-margin-t-0">
-                      <img class="full-width img-responsive" src="img/portafolio/03.jpg" alt="Portfolio Image">
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- End Web site tree -->
-        </div>
-        <div class="masonry-grid-item col-xs-12 col-sm-4 col-md-4 margin-b-40 sombra">
-          <!-- Web site fourt -->
-          <div class="work work-popup-trigger">
-            <div class="work-overlay">
-              <figure>
-                <img class="full-width img-responsive" src="img/portafolio/04.jpg" alt="Portfolio Image">
-              </figure>
-
-            </div>
-            <div class="work-popup-overlay">
-              <div class="work-popup-content">
-                <a href="javascript:void(0);" class="work-popup-close">
-                  <i class="fa fa-close"> </i> Cerrar</a>
-                <div class="margin-b-30">
-                  <h3 class="margin-b-5">AudiPhone</h3>
-                  <span>Obscuro &amp; Neon</span>
-                </div>
-                <div class="row">
-                  <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p>Empresa de desarrollo de audifonos bocinas de alta fidelidad, competencia directa con las mejores marcas
-                        del mercado.</p>
-                      <p>Diseño naturalmente llamativo, usando colores neon represantando la musica y la fiesta, el contrasteste
-                        con el negro calido da al usuario comidad al ver los productos.</p>
-                      <h4>Tecnologia usada:</h5>
-                        <p>Bootstrap, HTML5, Css, JS, Ajax, MailChimp, Google Maps Api.</p>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p class="margin-b-5">
-                        <strong>Role:</strong> Musica, Reproductor</p>
-                      <p class="margin-b-5">
-                        <strong>Diseñador:</strong> Mildred Sifuentes</p>
-                      <p class="margin-b-5">
-                        <strong>Developer:</strong>Mildred Sifuentes</p>
-                      <p class="margin-b-5">
-                        <strong>Cliente:</strong> AudiPhone</p>
-                    </div>
-                    <div class="hidden-xs  hidden-sm hidden-md margin-t-10 sm-margin-t-0">
-                      <img class="full-width img-responsive" src="img/portafolio/04.jpg" alt="Portfolio Image">
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- End Web site fourt -->
-        </div>
-        <div class="masonry-grid-item col-xs-12 col-sm-4 col-md-4 margin-b-40 sombra">
-          <!-- Web site five -->
-          <div class="work work-popup-trigger">
-            <div class="work-overlay">
-              <figure>
-                <img class="full-width img-responsive" src="img/portafolio/05.jpg" alt="Portfolio Image">
-              </figure>
-
-            </div>
-            <div class="work-popup-overlay">
-              <div class="work-popup-content">
-                <a href="javascript:void(0);" class="work-popup-close">
-                  <i class="fa fa-close"> </i> Cerrar</a>
-                <div class="margin-b-30">
-                  <h3 class="margin-b-5">Maestria book</h3>
-                  <span>Color &amp; Escaparate</span>
-                </div>
-                <div class="row">
-                  <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p>Venta de libros digitales, impresos y disponibles para los dispositivos Kindle, mejora tu velocidad
-                        de comprension y haz crecer tu mente!</p>
-                      <p>Diseñado para a venta de libros pero usando colores pastelas y llamativos para las mayoria d eusarios
-                        que lo visitan en este caso lectores.</p>
-                      <h4>Tecnologia usada:</h5>
-                        <p>PHP,Bootstrap, HTML5, Css, JS, Ajax, Bases de datos, Google Maps Api.</p>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p class="margin-b-5">
-                        <strong>Role:</strong> Photography, Illustration</p>
-                      <p class="margin-b-5">
-                        <strong>Diseñador:</strong> Alan Gutierrez</p>
-                      <p class="margin-b-5">
-                        <strong>Developer:</strong> Armando Gutierrez</p>
-                      <p class="margin-b-5">
-                        <strong>Cliente:</strong> Maestria book</p>
-                    </div>
-                    <div class="hidden-xs  hidden-sm hidden-md margin-t-10 sm-margin-t-0">
-                      <img class="full-width img-responsive" src="img/portafolio/05.jpg" alt="Portfolio Image">
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- End Web site five -->
-        </div>
-        <div class="masonry-grid-item col-xs-12 col-sm-4 col-md-4 margin-b-40 sombra">
-          <!-- Web site five -->
-          <div class="work work-popup-trigger">
-            <div class="work-overlay">
-              <figure>
-                <img class="full-width img-responsive" src="img/portafolio/06.jpg" alt="Portfolio Image">
-              </figure>
-
-            </div>
-            <div class="work-popup-overlay">
-              <div class="work-popup-content">
-                <a href="javascript:void(0);" class="work-popup-close">
-                  <i class="fa fa-close"> </i> Cerrar</a>
-                <div class="margin-b-30">
-                  <h3 class="margin-b-5">Covenant Software</h3>
-                  <span>Tecnologico &amp; Minimalista, abstracto</span>
-                </div>
-                <div class="row">
-                  <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p>Empresa dedicada al desarrollo de software los principales pilares son: Aplicaciones web, Aplicaciones
-                        Móviles y Páginas web, También cuenta con una área de diseño gráfico.</p>
-                      <p>Diseñado para mostar en cada parte el usado de las heramientas que ofrece, se ha realizado bajo la
-                        identidad, usando colores, formas que identifican a la empresa.</p>
-                      <p>Cabe destacar que covenant Design realizado hasta la mas minima computadora desde cero</p>
-                      <h4>Tecnologia usada:</h5>
-                        <p>Laravel,BS4, HTML5, Css3, JS, Ajax, Bases de datos,</p>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p class="margin-b-5">
-                        <strong>Role:</strong> Tecnologia, Software</p>
-                      <p class="margin-b-5">
-                        <strong>Diseñador:</strong> Team Covenant</p>
-                      <p class="margin-b-5">
-                        <strong>Developer:</strong> Covenant Design</p>
-                      <p class="margin-b-5">
-                        <strong>Cliente:</strong> Covenant Software</p>
-                    </div>
-                    <div class="hidden-xs  hidden-sm hidden-md margin-t-10 sm-margin-t-0">
-                      <img class="full-width img-responsive" src="img/portafolio/06.jpg" alt="Portfolio Image">
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- End Web site five -->
-        </div>
-        <div class="masonry-grid-item col-xs-12 col-sm-4 col-md-4 margin-b-40 sombra">
-          <!-- Web site five -->
-          <div class="work work-popup-trigger">
-            <div class="work-overlay">
-              <figure>
-                <img class="full-width img-responsive" src="img/portafolio/07.jpg" alt="Portfolio Image">
-              </figure>
-
-            </div>
-            <div class="work-popup-overlay">
-              <div class="work-popup-content">
-                <a href="javascript:void(0);" class="work-popup-close">
-                  <i class="fa fa-close"> </i> Cerrar</a>
-                <div class="margin-b-30">
-                  <h3 class="margin-b-5">Model Arte Spa</h3>
-                  <span>Sutil &amp; Color</span>
-                </div>
-                <div class="row">
-                  <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p>Somos un spa solo para mujeres y contamos con la mas alta tecnología para el cuidado de tu salud y
-                        belleza.</p>
-                      <p>Diseñado para la mujer, colores representados para dar tranquilidad y seguridad, anticipando a los
-                        clientes de lo que va tratando los servicios.</p>
-                      <h4>Tecnologia usada:</h5>
-                        <p>Bootstrap, HTML5, Css3, JS, Ajax, Bases de datos,</p>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p class="margin-b-5">
-                        <strong>Role:</strong> Belleza, Salud</p>
-                      <p class="margin-b-5">
-                        <strong>Diseñador:</strong> Mildred Sifuentes</p>
-                      <p class="margin-b-5">
-                        <strong>Developer:</strong> Alan Gutierrez</p>
-                      <p class="margin-b-5">
-                        <strong>Cliente:</strong> Model Art Spa</p>
-                    </div>
-                    <div class="hidden-xs  hidden-sm hidden-md margin-t-10 sm-margin-t-0">
-                      <img class="full-width img-responsive" src="img/portafolio/07.jpg" alt="Portfolio Image">
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- End Web site five -->
-        </div>
-        <div class="masonry-grid-item col-xs-12 col-sm-4 col-md-4 margin-b-40 sombra">
-          <!-- Web site five -->
-          <div class="work work-popup-trigger">
-            <div class="work-overlay">
-              <figure>
-                <img class="full-width img-responsive" src="img/portafolio/08.jpg" alt="Portfolio Image">
-              </figure>
-
-            </div>
-            <div class="work-popup-overlay">
-              <div class="work-popup-content">
-                <a href="javascript:void(0);" class="work-popup-close">
-                  <i class="fa fa-close"> </i> Cerrar</a>
-                <div class="margin-b-30">
-                  <h3 class="margin-b-5">GoofAndFood</h3>
-                  <span>Limpio &amp; Rustico moderno</span>
-                </div>
-                <div class="row">
-                  <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p>Restaurant Italiano totalmente Gourmet, con una amplia variedad de especialidades, conocenos para que
-                        veas nuestros sabores y aromas que te haran sentir una gran tranquilidad.</p>
-                      <p>En estre proyecto damos la seriedad y el compromiso que se tiene con los comensales, lo rustico plasmado,
-                        proyecta un valor de elegencia y antiguedad.</p>
-                      <h4>Tecnologia usada:</h5>
-                        <p>Bootstrap, HTML5, Css3, JS, Ajax, Bases de datos,</p>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="margin-t-10 sm-margin-t-0">
-                      <p class="margin-b-5">
-                        <strong>Role:</strong> Restaurante</p>
-                      <p class="margin-b-5">
-                        <strong>Diseñador:</strong> Abel Montalvo</p>
-                      <p class="margin-b-5">
-                        <strong>Programador:</strong> Abel Montalvo </p>
-                      <p class="margin-b-5">
-                        <strong>Cliente:</strong> GoofAndFood</p>
-                    </div>
-                    <div class="hidden-xs  hidden-sm hidden-md margin-t-10 sm-margin-t-0">
-                      <img class="full-width img-responsive" src="img/portafolio/08.jpg" alt="Portfolio Image">
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- End Web site five -->
-        </div>
+      <div class="portfolio">
       </div>
-      <!-- End Masonry Grid -->
+      <div class="row text-center margin-b-40">
+     
+        <a id="learn_" class="btn-theme btn-theme-md btn-white-bg text-uppercase" href="#contact" title="Comenzar tu proyecto">Comenzar</a>
+    </div>
     </div>
   </div>
   <!--========== END PORTAFOLIO ==========-->
@@ -858,7 +461,7 @@
       </div>
       <div class="row">
         <div class="col-sm-6">
-          <h1 class="link-purple link--takiri link--takiriMenor ">Oferta del 40%
+          <h1 class="link-purple link--takiri link--takiriMenor ">Oferta del 30%
               <span>Obtenela ya!</span>
           </h1>
           <div class="col-sm-12 progress-box margin-t-20">
@@ -868,12 +471,12 @@
                         Antes
                       <del>$ 10000.00 </del> MXN
                     </strong> <br>
-                    <strong>  Ahora $ 5990.00 MXN</strong>
+                    <strong>  Ahora $ 6990.00 MXN</strong>
                   </span>
             </h5>
 
             <div class="progress">
-              <div class="progress-bar bg-color-base-purple" role="progressbar" data-width="40"></div>
+              <div class="progress-bar bg-color-base-purple" role="progressbar" data-width="30"></div>
             </div>
           </div>
           <h1 class="link-purple link--takiri link--takiriMenor ">Oferta del 50%
@@ -890,7 +493,7 @@
               </span>
             </h5>
             <div class="progress">
-              <div class="progress-bar bg-color-base-purple" role="progressbar" data-width="50"></div>
+              <div class="progress-bar bg-color-base-purple" role="progressbar" data-width="55"></div>
             </div>
           </div>
         </div>
@@ -1042,11 +645,11 @@
                 <a class="footer-list-link" href="contact@covenantsw.com">
                   <i class="fa fa-envelope"></i> contact@covenantsw.com</a>
               </li>
-              <li class="footer-list-item">
+              <!-- <li class="footer-list-item">
                 <p class="footer-list-link">
                   <i class="fa fa-phone"></i> +52 (444) 124-0916
                   <br>&nbsp;&nbsp;&nbsp;&nbsp;+52 (444) 222-8741</p>
-              </li>
+              </li> -->
             </ul>
             <!-- End List -->
           </div>
@@ -1072,7 +675,7 @@
     <div class="content container">
       <div class="row">
         <div class="col-xs-6">
-          <img class="footer-logo" src="img/logoderechoIconbpng.png" alt="Covenant Logo">
+          <img class="footer-logo" src="img/logoderechoIconbpng.png" alt="covenant software">
         </div>
         <div class="col-xs-6 text-right">
           <p class="margin-b-0">&copy; Copyright 2018
@@ -1134,10 +737,10 @@
   <script src="js/components/maginific-popup.min.js" type="text/javascript"></script>
   <script src="js/components/progress-bar.min.js" type="text/javascript"></script>
   <script src="js/components/masonry.min.js" type="text/javascript"></script>
-  <div>
+  <!-- <div> -->
   <!-- https://www.youtube.com/watch?v=jdiiAlecXG4 -->
     <!-- Load Facebook SDK for JavaScript -->
-  <div id="fb-root"></div>
+  <!-- <div id="fb-root"></div>
   
   <script>
   window.fbAsyncInit = function(){
@@ -1156,17 +759,17 @@
    js.src = 'https://connect.facebook.net/es_ES/sdk/xfbml.customerchat.js';
    fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));</script>
-      
+       -->
 
   <!-- Your customer chat code -->
-  <div class="fb-customerchat"
+  <!-- <div class="fb-customerchat"
    attribution=setup_tool
    page_id="396313837481341"
    theme_color="#7ad20d"
    logged_in_greeting="Hola!  Podemos ayudarte en algo?"
    logged_out_greeting="Hola!  Podemos ayudarte en algo?">
   </div>
-  </div>
+  </div> -->
 
 </body>
 

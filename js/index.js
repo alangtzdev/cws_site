@@ -75,10 +75,10 @@ splitTextTimeline.staggerFrom(mySplitText.chars, 0.2, {autoAlpha:0, scale:4, for
 }
 
 function submitForm() {
-   var $listID = '2f3f6f2160';
+  //  var $listID = '2f3f6f2160';
      WaitMeShow('#body');
     $.ajax({
-        url: 'https://alangtz.us17.list-manage.com/subscribe/post-json?u=d39cbcbad763855ab053258d2&amp;id=2f3f6f2160',
+        // url: 'https://alangtz.us17.list-manage.com/subscribe/post-json?u=d39cbcbad763855ab053258d2&amp;id=2f3f6f2160',
         data: $('#mc-embedded-subscribe-form').serialize(),
         contentType: "application/json; charset=utf-8",
         dataType: 'jsonp',
@@ -130,7 +130,7 @@ function WaitMeHide(idForm) {
     $(idForm).waitMe('hide');
 }
 function prettyLog(str) {
-    console.log('%c ' + str, 'color: green; font-weight: bold;');
+    // console.log('%c ' + str, 'color: green; font-weight: bold;');
   }
   
   function toggleLoop(typed) {
@@ -140,5 +140,3 @@ function prettyLog(str) {
       typed.loop = true;
     }
   }
-
-  //jorge sinc
