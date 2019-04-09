@@ -32,6 +32,7 @@
   <!-- estili personalizado -->
 
   <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/main.css">
   <!-- ========== FAVICON & APPLE ICONS ========== -->
   <link rel="shortcut icon" href="img/favicon.png">
   <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -389,7 +390,51 @@
   <!--========== END PROMO BANNER ==========-->
   <!--========== END PORTAFOLIO ==========-->
   <div id="portafolio">
-    <div class="content-md container">
+	<div class="bg-g1 size1 flex-w flex-col-c-sb p-l-15 p-r-15 p-t-55 p-b-35 respon1">
+		<span></span>
+		<div class="flex-col-c p-t-50 p-b-50">
+			<h3 class="l1-txt1 txt-center p-b-10">
+			En construcción
+			</h3>
+
+			<p class="txt-center l1-txt2 p-b-60">
+			 Tu empresa podria estar aquí !
+			</p>
+
+			<div class="flex-w flex-c cd100 p-b-82">
+				<div class="flex-col-c-m size2 how-countdown">
+					<span class="l1-txt3 p-b-9 days">35</span>
+					<span class="s1-txt1">Days</span>
+				</div>
+
+				<div class="flex-col-c-m size2 how-countdown">
+					<span class="l1-txt3 p-b-9 hours">17</span>
+					<span class="s1-txt1">Hours</span>
+				</div>
+
+				<div class="flex-col-c-m size2 how-countdown">
+					<span class="l1-txt3 p-b-9 minutes">50</span>
+					<span class="s1-txt1">Minutes</span>
+				</div>
+
+				<div class="flex-col-c-m size2 how-countdown">
+					<span class="l1-txt3 p-b-9 seconds">39</span>
+					<span class="s1-txt1">Seconds</span>
+				</div>
+			</div>
+
+			<button class="flex-c-m s1-txt2 size3 how-btn"  id="underConstruction" href="#contact">
+				Quieres comenzar tu proyecto 
+			</button>
+		</div>
+
+		<span class="s1-txt3 txt-center">
+			<!-- @ 2017 Coming Soon Template. -->
+		</span>
+		
+	</div>
+
+    <!-- <div class="content-md container">
       <div class="row text-center margin-b-40">
         <div class="col-sm-6 col-sm-offset-3">
           <p class="link-Text link--kumya" href="#" data-letters="PORTAFOLIO">PORTAFOLIO</span>
@@ -402,7 +447,7 @@
      
         <a id="learn_" class="btn-theme btn-theme-md btn-white-bg text-uppercase" href="#contact" title="Comenzar tu proyecto">Comenzar</a>
     </div>
-    </div>
+    </div> -->
   </div>
   <!--========== END PORTAFOLIO ==========-->
   <!--========== PROMOTIONS ==========-->
@@ -528,7 +573,7 @@
         </div>
       </div>
       <div class="row text-center">
-        <a id="learn" class="btn-theme btn-theme-md btn-purple-bg text-uppercase wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"
+        <a id="creaRenueva" class="btn-theme btn-theme-md btn-purple-bg text-uppercase wow fadeIn" data-wow-duration="2s" data-wow-delay="1s"
           href="#contact" title="Obtener promocion">
           <i class="btn-icon icon-control-play"></i>Obtenerla ya!</a>
       </div>
@@ -590,7 +635,7 @@
     <div class="gmap">
       <div id="map" class="map height-400"></div>
       <address class="gmap-address">
-        <p class="color-heading margin-b-0">Bartolome Hurtado #206, Himno Nacional 2da seccion, San Luis Potosi, MX</p>
+        <p class="color-heading margin-b-0">Cordillera del Márquez 845-F. Torre Punta Marques, San Luis Potosi, MX</p>
       </address>
     </div>
     <!-- End Google Map -->
@@ -737,10 +782,30 @@
   <script src="js/components/maginific-popup.min.js" type="text/javascript"></script>
   <script src="js/components/progress-bar.min.js" type="text/javascript"></script>
   <script src="js/components/masonry.min.js" type="text/javascript"></script>
-  <!-- <div> -->
+  <script src="plugins/countdowntime/moment.min.js"></script>
+	<script src="plugins/countdowntime/moment-timezone.min.js"></script>
+	<script src="plugins/countdowntime/moment-timezone-with-data.min.js"></script>
+  <script src="plugins/countdowntime/countdowntime.js"></script>
+  <script>
+		$('.cd100').countdown100({
+			// Set Endtime here
+			// Endtime must be > current time
+			endtimeYear: 0,
+			endtimeMonth: 0,
+			endtimeDate: 35,
+			endtimeHours: 18,
+			endtimeMinutes: 0,
+			endtimeSeconds: 0,
+			timeZone: "" 
+			// ex:  timeZone: "America/New_York", can be empty
+			// go to " http://momentjs.com/timezone/ " to get timezone
+		});
+	</script>
+
+  <div>
   <!-- https://www.youtube.com/watch?v=jdiiAlecXG4 -->
     <!-- Load Facebook SDK for JavaScript -->
-  <!-- <div id="fb-root"></div>
+  <div id="fb-root"></div>
   
   <script>
   window.fbAsyncInit = function(){
@@ -759,17 +824,17 @@
    js.src = 'https://connect.facebook.net/es_ES/sdk/xfbml.customerchat.js';
    fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));</script>
-       -->
+      
 
   <!-- Your customer chat code -->
-  <!-- <div class="fb-customerchat"
+  <div class="fb-customerchat"
    attribution=setup_tool
    page_id="396313837481341"
    theme_color="#7ad20d"
    logged_in_greeting="Hola!  Podemos ayudarte en algo?"
    logged_out_greeting="Hola!  Podemos ayudarte en algo?">
   </div>
-  </div> -->
+  </div>
 
 </body>
 

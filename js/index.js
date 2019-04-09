@@ -55,7 +55,30 @@ $(document).ready(function() {
 
 // executeSplit(mySplitText,splitTextTimeline);
 $('.phone').mask('000-0000-000');
+$('#learn').click(function() {
+  var $position = $($(this).attr('href')).offset().top;
+  $('html, body').stop().animate({
+      scrollTop: $position - 0
+  }, 600);
+ 
 });
+$('#creaRenueva').click(function() {
+  var $position = $($(this).attr('href')).offset().top;
+  $('html, body').stop().animate({
+      scrollTop: $position - 0
+  }, 600);
+ 
+});
+$('#underConstruction').click(function() {
+  var $position = $($(this).attr('href')).offset().top;
+  $('html, body').stop().animate({
+      scrollTop: $position - 0
+  }, 600);
+ 
+});
+
+});
+
 //kill any animations and set text back to its pre-split state
 function kill(mySplitText, splitTextTimeline){
   splitTextTimeline.clear().time(1);
@@ -75,10 +98,10 @@ splitTextTimeline.staggerFrom(mySplitText.chars, 0.2, {autoAlpha:0, scale:4, for
 }
 
 function submitForm() {
-  //  var $listID = '2f3f6f2160';
+   var $listID = '2f3f6f2160';
      WaitMeShow('#body');
     $.ajax({
-        // url: 'https://alangtz.us17.list-manage.com/subscribe/post-json?u=d39cbcbad763855ab053258d2&amp;id=2f3f6f2160',
+        url: 'https://alangtz.us17.list-manage.com/subscribe/post-json?u=d39cbcbad763855ab053258d2&amp;id=2f3f6f2160',
         data: $('#mc-embedded-subscribe-form').serialize(),
         contentType: "application/json; charset=utf-8",
         dataType: 'jsonp',

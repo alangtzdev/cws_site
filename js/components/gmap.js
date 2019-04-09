@@ -7,7 +7,7 @@ function initMap() {
 	);
 
   var customMapTypeId = 'custom_style';
-  var dire = {lat: 22.127616, lng: -100.982790}; //22°07'39.4"N 100°58'57.9
+  var dire = {lat: 22.146229, lng: -101.041048}; //22°07'39.4"N 100°58'57.9
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 18,
     scrollwheel: false,

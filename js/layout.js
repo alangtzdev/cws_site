@@ -1,3 +1,4 @@
+var scrolled=0;
 var Layout = function () {
  
     
@@ -14,9 +15,7 @@ var Layout = function () {
             jQuery('#learn').pulsate({
                 color: "#bf1c56"
             });
-            jQuery('#learn_').pulsate({
-                color: "#bf1c56"
-            });
+
             jQuery('#pulsate-once').click(function () {
                 $('#pulsate-once-target').pulsate({
                     color: "#399bc3",
@@ -75,26 +74,30 @@ var Layout = function () {
         // jQuery for page scrolling feature - requires jQuery Easing plugin
         $('.js_nav-item a').bind('click', function(event) {
             var $position = $($(this).attr('href')).offset().top;
+            console.log($($(this).attr('href')).offset().top);
+            
             $('html, body').stop().animate({
                 scrollTop: $position - $offset
             }, 1200);
-            event.preventDefault();
+            // event.preventDefault();
         });
-        $('#learn').bind('click', function(event) {
-            var $position = $($(this).attr('href')).offset().top;
-            $('html, body').stop().animate({
-                scrollTop: $position - $offset
-            }, 600);
-            event.preventDefault();
-        });
-        $('#learn_').bind('click', function(event) {
-            var $position = $($(this).attr('href')).offset().top;
-            $('html, body').stop().animate({
-                scrollTop: $position - $offset
-            }, 600);
-            event.preventDefault();
-        });
-
+       
+        
+        // $('#creaRenueva').bind('click', function(event) {
+        //     var $position = $($(this).attr('href')).offset().top;
+        //     $('html, body').stop().animate({
+        //         scrollTop: $position - $offset
+        //     }, 600);
+           
+        // });
+        // $('#underConstruction').bind('click', function(event) {
+        //     var $position = $($(this).attr('href')).offset().top;
+        //     $('html, body').stop().animate({
+        //         scrollTop: $position - $offset
+        //     }, 600);
+        
+        // });
+        
         var $scrollspy = $('body').scrollspy({target: '.navbar-fixed-top', offset: $offset+2});
 
         // Collapse Navbar When It's Clickicked
@@ -223,5 +226,4 @@ $(document).ready(function() {
     
 // setTimeout($loader, 3000);
     Layout.init();
-
 });
